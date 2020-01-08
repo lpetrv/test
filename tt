@@ -1,0 +1,3 @@
+#!/bin/bash
+kextload /System/Library/back/AMDRadeonX3000.kext
+exit 0
